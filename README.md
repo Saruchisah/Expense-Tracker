@@ -1,2 +1,25 @@
-# Expense-Tracker
-My first C++ project – an Expense Tracker application. A simple Expense Tracker built using C++ to record expenses, manage spending, and calculate total expenses .
+# Expense Tracker
+
+My first C++ project.
+
+## Features
+- Add expense names
+- Store expense amounts
+- Display all expenses
+- Calculate total expense
+
+## Technologies Used
+- C++
+- Arrays
+- Loops
+- Basic Programming Concepts
+
+## How to Run
+1. Compile the code:
+   g++ main.cpp -o expense
+
+2. Run:
+   expense.exe
+
+## Author
+Saruchi sah
