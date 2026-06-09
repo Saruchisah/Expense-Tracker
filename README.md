@@ -3,23 +3,24 @@
 My first C++ project.
 
 ## Features
-- Add expense names
-- Store expense amounts
-- Display all expenses
-- Calculate total expense
+- Add new expenses
+- View all expenses
+- Calculate total expenses
+- Menu-driven interface
+- Console-based application
 
 ## Technologies Used
 - C++
 - Arrays
 - Loops
-- Basic Programming Concepts
+- Switch Case
 
 ## How to Run
-1. Compile the code:
-   g++ main.cpp -o expense
 
-2. Run:
-   expense.exe
+```bash
+g++ main.cpp -o expense
+expense.exe
+```
 
 ## Author
-Saruchi sah
+Saruchi sah 
